@@ -1,0 +1,6 @@
+*.pdf
+*.env
+/models
+/db
+/data
+.python-version
